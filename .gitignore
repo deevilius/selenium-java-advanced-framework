@@ -1,0 +1,8 @@
+.idea/
+.vscode
+letskodeit.iml
+target
+logs
+reports
+screenshots
+test-output
